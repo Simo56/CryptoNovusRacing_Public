@@ -32,7 +32,7 @@ Many thanks to Ionut for helping me develop the frontend for this project and th
 <video width="320" controls>
   <source src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/0.mp4" type="video/mp4">
 </video>
- <img width="512" src="Frontend/1.png">
+ <img width="512" src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/1.PNG">
  <br>
   <img width="512" src="Frontend/3.png">
  <br>
