@@ -26,3 +26,16 @@ The project includes a decentralized application (DApp) developed with Web3.js, 
 ## Thanks
 
 Many thanks to Ionut for helping me develop the frontend for this project and the beautiful logo!
+
+## Examples
+<div align="center">
+<video width="320" controls>
+  <source src="../frontend/0.mp4" type="video/mp4">
+</video>
+ <img width="512" src="../frontend/1.png">
+ <br>
+  <img width="512" src="../frontend/3.png">
+ <br>
+  <img width="512" src="../frontend/2.png">
+ <br>
+</div>
