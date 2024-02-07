@@ -1,0 +1,111 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "symbol",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "_symbol",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_tokenId",
+						"type": "uint256"
+					}
+				],
+				"name": "tokenURI",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Optional metadata extension for ERC-721 non-fungible token standard. See https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md.",
+			"kind": "dev",
+			"methods": {
+				"name()": {
+					"details": "Returns a descriptive name for a collection of NFTs in this contract.",
+					"returns": {
+						"_name": "Representing name."
+					}
+				},
+				"symbol()": {
+					"details": "Returns a abbreviated name for a collection of NFTs in this contract.",
+					"returns": {
+						"_symbol": "Representing symbol."
+					}
+				},
+				"tokenURI(uint256)": {
+					"details": "Returns a distinct Uniform Resource Identifier (URI) for a given asset. It Throws if `_tokenId` is not a valid NFT. URIs are defined in RFC3986. The URI may point to a JSON file that conforms to the \"ERC721 Metadata JSON Schema\".",
+					"returns": {
+						"_0": "URI of _tokenId."
+					}
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"localhost/contracts/tokens/erc721-metadata.sol": "ERC721Metadata"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"localhost/contracts/tokens/erc721-metadata.sol": {
+			"keccak256": "0xecd87907f84c11c5f955f522fb37cd93142283eca87af3d1836fc54d2ba30d9a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a4008f6eb605efda170cecbfce62b23ea689240ba6562429f0ab5b8905e05ed9",
+				"dweb:/ipfs/QmdkMFwoSLcZp2icBAzJ4UU5JmLu2NgL277fpmSG4q7BBA"
+			]
+		}
+	},
+	"version": 1
+}
