@@ -25,4 +25,4 @@ The project includes a decentralized application (DApp) developed with Web3.js, 
 
 ## Thanks
 
-Huge thanks to Ionut for helping me develop the frontend part of this project!
+Many thanks to Ionut for helping me develop the frontend for this project and the beautiful logo!
