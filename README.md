@@ -30,9 +30,8 @@ Many thanks to Ionut for helping me develop the frontend for this project and th
 ## Example
 <div align="center">
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Simo56/CryptoNovusRacing_Public/assets/73752549/9503a150-fb6a-4e3b-9935-419bcb7eb7e3" type="video/mp4">
-</video>
+![](https://github.com/Simo56/CryptoNovusRacing_Public/assets/73752549/9503a150-fb6a-4e3b-9935-419bcb7eb7e3)
+
 
 <br>
  <img width="512" src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/1.PNG">
