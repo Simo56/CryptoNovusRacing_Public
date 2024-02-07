@@ -1,5 +1,13 @@
 # CryptoNovusRacing
 
+<h1 align="center">
+  <br>
+  <img width="512" alt="CNR Logo" src="https://github.com/Simo56/CryptoNovusRacing_Public/assets/20564263/c28f7b27-7121-448d-9e13-56e80fa9e33c">
+  <br>
+  CryptoNovusRacing
+  <br>
+</h1>
+
 CryptoNovusRacing is an Ethereum Smart Contract developed using Solidity 0.8.0. This innovative smart contract generates unique NFT cars with random parts and rarities, providing users with an exciting and unique collectible experience.
 
 ## Features
