@@ -30,7 +30,9 @@ Many thanks to Ionut for helping me develop the frontend for this project and th
 ## Example
 <div align="center">
 
-![](https://github.com/Simo56/CryptoNovusRacing_Public/assets/73752549/9503a150-fb6a-4e3b-9935-419bcb7eb7e3)
+<div align="center">
+  <video src="[myvideo.mp4](https://github.com/Simo56/CryptoNovusRacing_Public/assets/73752549/9503a150-fb6a-4e3b-9935-419bcb7eb7e3)" width="400" />
+</div>
 
 
 <br>
