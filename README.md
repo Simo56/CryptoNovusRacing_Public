@@ -34,7 +34,7 @@ Many thanks to Ionut for helping me develop the frontend for this project and th
 </video>
  <img width="512" src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/1.PNG">
  <br>
-  <img width="512" src="[Frontend/3.png](https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/3.PNG)">
+  <img width="512" src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/3.PNG)">
  <br>
   <img width="512" src="https://github.com/Simo56/CryptoNovusRacing_Public/blob/main/Frontend/2.PNG">
  <br>
